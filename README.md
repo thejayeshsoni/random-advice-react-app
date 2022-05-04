@@ -1,3 +1,4 @@
+[Live Preview](https://thejayeshsoni-random-advice.netlify.app/) :smiley:
 # random-advice-react-app
 
 Random advice
